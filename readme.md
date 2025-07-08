@@ -79,12 +79,6 @@ Compare values for dry vs wet soil and adjust accordingly.
 
 ---
 
-## 📸 Visual Diagram
-
-*(Coming soon – or request a Fritzing diagram and we’ll generate it for you!)*
-
----
-
 ## 💡 Pro Tips
 
 - Use a **plastic tube or IV drip pipe** to guide water to the plant.
